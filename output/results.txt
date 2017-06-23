@@ -1,0 +1,18 @@
+
+vagrant@vagrant:/vagrant/logs_analysis$ python3 log.py
+        1.The three most popular articles of alltime :
+
+Media obsessed with bears=84383views
+There are a lot of bears=84504views
+Balloon goons doomed=84557views
+        2.The most popular article authors of alltime:
+
+Ursula La Multa=507594views
+Rudolf von Treppenwitz=423457views
+Anonymous Contributor=170098views
+Markoff Chaney=84557views
+        3.Number of days with more than 1percent of requests that lead to an error:
+
+2016-07-17=2.26%
+vagrant@vagrant:/vagrant/logs_analysis$
+
