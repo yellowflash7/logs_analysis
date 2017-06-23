@@ -1,6 +1,8 @@
+#! /usr/bin/env python3
+
 import psycopg2
 
-
+if __name__ == '__main__':
 q1_result = {}
 q1_result['question'] = "\t1.The three most popular articles of alltime :\n"
 q2_result = {}
