@@ -8,7 +8,7 @@ q2_result = {}
 q2_result['question'] = "\t2.The most popular article authors of alltime:\n"
 q3_result = {}
 q3_result['question'] = """\t3.Number of days with more than 1percent of
-                        requests that lead to an error:\n"""
+\trequests that lead to an error:\n"""
 
 q1 = "select title,t_views from newt limit 3;"
 
